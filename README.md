@@ -111,5 +111,5 @@ System messages from the hub.
 
 ## Release History
 
-1.0.1
+1.0.2
 * Initial Release
