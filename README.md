@@ -24,8 +24,8 @@ hub1.on("connect", function() {
     console.log("hub connected");
 
     console.log("Activities: " + Object.keys(hub1.activities).length);
-	console.log("Rooms: " + Object.keys(hub1.rooms).length);
-	console.log("Devices: " + Object.keys(hub1.devices).length);
+    console.log("Rooms: " + Object.keys(hub1.rooms).length);
+    console.log("Devices: " + Object.keys(hub1.devices).length);
 });
 
 hub1.on("disconnect", function(reason) {
@@ -111,5 +111,5 @@ System messages from the hub.
 
 ## Release History
 
-1.0.0
+1.0.1
 * Initial Release
