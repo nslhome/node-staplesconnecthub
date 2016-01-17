@@ -1,7 +1,7 @@
 {
   "name": "staplesconnecthub",
   "description": "Node module that provides access to the Staples Connect Hub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Nick Largent <nicklargent@gmail.com>",
   "license": "MIT",
   "repository": {
